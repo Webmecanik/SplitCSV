@@ -1,0 +1,8 @@
+{
+    "name": "picamator/split-csv",
+    "description": "Split Csv Lib",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "minimum-stability": "dev",
+    "require": {}
+}
